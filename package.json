@@ -1,0 +1,12 @@
+{
+  "name": "my-mern-stack",
+  "version": "1.0.0",
+  "description": "My basic MERN stack",
+  "main": "index.js",
+  "repository": "https://github.com/usbpendrive/my-mern-stack",
+  "author": "usbpendrive <ferry.fernando@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
