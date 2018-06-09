@@ -2,11 +2,15 @@
   "name": "my-mern-stack",
   "version": "1.0.0",
   "description": "My basic MERN stack",
-  "main": "index.js",
+  "main": "server.js",
   "repository": "https://github.com/usbpendrive/my-mern-stack",
   "author": "usbpendrive <ferry.fernando@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react": "^6.24.1"
   }
 }
